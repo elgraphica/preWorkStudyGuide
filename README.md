@@ -4,8 +4,8 @@
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
-- Wirh this app. I made studying easier
-- I made this project to start cmy career in coding
+- With this app. I made studying easier
+- I made this project to start my career in coding
 - It will help students to easily find the information they need about coding
 - I learnt the very basics of coding
 
@@ -30,3 +30,7 @@ N/A
 Please refer to the licence in repo
 
 ---
+
+## Deployed Application
+
+https://elgraphica.github.io/preWorkStudyGuide/
